@@ -1,0 +1,14 @@
+C:\Users\KORKMAZ\Documents\vs code 2\array\bin\Debug\net7.0\array.exe
+C:\Users\KORKMAZ\Documents\vs code 2\array\bin\Debug\net7.0\array.deps.json
+C:\Users\KORKMAZ\Documents\vs code 2\array\bin\Debug\net7.0\array.runtimeconfig.json
+C:\Users\KORKMAZ\Documents\vs code 2\array\bin\Debug\net7.0\array.dll
+C:\Users\KORKMAZ\Documents\vs code 2\array\bin\Debug\net7.0\array.pdb
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\array.AssemblyInfoInputs.cache
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\array.AssemblyInfo.cs
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\array.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\array.dll
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\refint\array.dll
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\array.pdb
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\array.genruntimeconfig.cache
+C:\Users\KORKMAZ\Documents\vs code 2\array\obj\Debug\net7.0\ref\array.dll
